@@ -2,7 +2,7 @@
 # Lane Detection Using OpenCV
 
 This project implements a simple lane detection algorithm using OpenCV. The algorithm processes video frames to detect lane lines on the road by applying edge detection, a region of interest, and Hough Line Transformation.
-
+![Alt text](https://github.com/parsa-gilpoor/line-see-car/blob/main/Lane%20Detection%209_23_2024%2012_51_32%20PM.png)
 ## Features
 - Reads video input.
 - Applies edge detection using Canny Edge Detector.
